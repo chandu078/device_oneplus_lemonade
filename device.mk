@@ -22,7 +22,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    OPlusWifiResTarget
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
