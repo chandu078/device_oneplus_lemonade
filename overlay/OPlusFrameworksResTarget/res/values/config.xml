@@ -480,4 +480,8 @@
         <item>96</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
 
+    <!-- Allow the gesture power + volume up to change the ringer mode while the device
+         is interactive. -->
+    <bool name="config_volumeHushGestureEnabled">false</bool>
+
 </resources>
